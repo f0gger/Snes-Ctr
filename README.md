@@ -39,15 +39,17 @@ Requirements
 
 ## Getting Started
 
-    - Clone this repository:
-
-    - git clone https://github.com/f0gger/Snes-Ctr
-    - cd Snes-Ctr
-
-    - Open the .kicad_pro file in KiCad.
-    - Review the schematic (.kicad_sch) to understand the circuit.
-    - Open the PCB editor to inspect or modify the board layout.
-    - Run the electrical rules check (ERC) and design rules check (DRC) before manufacturing.
+    Clone this repository:
+    ```bash
+    
+    git clone <repository-url>
+    cd <repository-directory>
+    ```
+    
+    Open the .kicad_pro file in KiCad.
+    Review the schematic (.kicad_sch) to understand the circuit.
+    Open the PCB editor to inspect or modify the board layout.
+    Run the electrical rules check (ERC) and design rules check (DRC) before manufacturing.
 
 ## Manufacturing
 
