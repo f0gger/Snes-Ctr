@@ -40,11 +40,8 @@ Requirements
 ## Getting Started
 
     Clone this repository:
-    ```bash
-    
     git clone <repository-url>
     cd <repository-directory>
-    ```
     
     Open the .kicad_pro file in KiCad.
     Review the schematic (.kicad_sch) to understand the circuit.
