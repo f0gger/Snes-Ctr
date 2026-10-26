@@ -1,9 +1,10 @@
 # SNES Controller – KiCad Hardware Design
 
 KiCad hardware design files for a custom Super Nintendo Entertainment System (SNES) controller built around the ATmega328P microcontroller, with I²C communication for interfacing with external devices.
-Features
 
 ## Repository Structure
+
+```text
 Snes-Ctr/
 ├── gerbers/ - Gerber and drill files for PCB manufacturing.
 │   ├── Snes-Ctr-B_Cu.gbl
@@ -23,6 +24,7 @@ Snes-Ctr/
 ├── Snes-Ctr.kicad_pro - KiCad project configuration.
 ├── Snes-Ctr.kicad_sch - Circuit schematic.
 └── README.md
+```
 
 File names and structure may vary depending on the actual project files.
 Hardware Overview
